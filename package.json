@@ -1,0 +1,19 @@
+{
+  "name": "@ajberkow/dom-type-helpers",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc -p tsconfig.json"
+  },
+  "keywords": [
+    "DOM",
+    "typescript",
+    "helpers"
+  ],
+  "author": "Adam Berkowitz <adam@adamjberkowitz.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}

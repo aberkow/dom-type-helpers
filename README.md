@@ -1,0 +1,1 @@
+I'm not sure if this project will be anything yet. I'm trying to improve my understanding of typescript and come up with some better ways of handling the DOM when converting projects from JS to TS.
